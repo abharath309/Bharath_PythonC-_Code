@@ -1,7 +1,4 @@
-// AUTHOR Jiahao CHEN tobychen@bu.edu
-// AUTHOR Yue SUN yuesun@bu.edu
-// AUTHOR Yuning QIU qiuyn@bu.edu
-// AUTHOR Xinran ZHANG zhangxr@bu.edu
+// AUTHOR BharathAnanth abharath@bu.edu
 
 #include <iostream>
 #include <iomanip>
