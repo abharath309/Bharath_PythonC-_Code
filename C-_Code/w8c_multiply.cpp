@@ -1,7 +1,4 @@
-// AUTHOR AkashMehta amehta22@bu.edu
-// AUTHOR MuhammadZuhayrRaghib mzraghib@bu.edu
 // AUTHOR Bharath abharath@bu.edu
-// AUTHOR MuhammadKasimPatel kasimp93@bu.edu
 #include <iostream>
 #include <string>
 #include <vector>
