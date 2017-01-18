@@ -1,7 +1,5 @@
-/* Copyright 2016 Akash Mehta */
 // AUTHOR AkashMehta amehta22@bu.edu
 // AUTHOR BharathAnanth abharath@bu.edu
-// AUTHOR MuhammadKasimPatel kasimp93@bu.edu
 #include <iostream>
 #include <string>
 #include <vector>
